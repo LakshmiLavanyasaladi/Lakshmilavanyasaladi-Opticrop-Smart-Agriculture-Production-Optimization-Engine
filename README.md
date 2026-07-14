@@ -122,7 +122,7 @@ OptiCrop/
 ## ⚙ Installation
 
 ### Clone the Repository
-
+https://github.com/LakshmiLavanyasaladi
 ### Navigate to the Project Folder
 
 ```bash
@@ -153,7 +153,7 @@ python app.py
 
 ### Prediction Result
 
-
+"C:\Users\admin\OneDrive\Pictures\crop-recommendation-system.jpeg"
 
 ## 🚀 Future Enhancements
 
